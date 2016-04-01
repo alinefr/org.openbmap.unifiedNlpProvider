@@ -9,3 +9,5 @@
 /res/raw/build.txt
 /.settings
 /local.properties
+*.keystore
+user.gradle
